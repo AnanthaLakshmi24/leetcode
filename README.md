@@ -4,7 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2630-alternating-digit-sum) |
 | [3371-harshad-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3371-harshad-number) |
+## Array
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
