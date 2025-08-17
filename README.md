@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0389-find-the-difference) |
+| [0812-rotate-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
