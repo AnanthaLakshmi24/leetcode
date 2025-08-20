@@ -1,0 +1,11 @@
+from typing import List
+
+class Solution:
+    def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        k = []
+        nums2 = list(nums2)   
+        for i in range(len(nums1)):
+            if nums1[i] in nums2:
+                k.append(nums1[i])
+                nums2.remove(nums1[i])   
+        return k
