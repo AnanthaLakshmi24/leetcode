@@ -1,11 +1,5 @@
 import math
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        k = []
-        for i in range(len(nums1)):
-            for j in range(len(nums2)):
-                if nums1[i]==nums2[j]:
-                    k.append(nums2[j])
-        k =set(k)
-        return list(k)
+        return list(set(nums1) & set(nums2))
         
