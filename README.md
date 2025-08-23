@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1448-maximum-69-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
