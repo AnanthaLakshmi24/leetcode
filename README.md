@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
