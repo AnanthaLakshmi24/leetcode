@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
 | ------- |
