@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2630-alternating-digit-sum) |
 | [3371-harshad-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3371-harshad-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
