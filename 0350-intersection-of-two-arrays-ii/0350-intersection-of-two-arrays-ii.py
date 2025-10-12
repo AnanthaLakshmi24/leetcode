@@ -2,10 +2,12 @@ from typing import List
 
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        k = []
-        nums2 = list(nums2)   
-        for i in range(len(nums1)):
-            if nums1[i] in nums2:
-                k.append(nums1[i])
-                nums2.remove(nums1[i])   
-        return k
+        freq = {}
+        result = []
+        for num in nums1:
+            freq[num] = freq.get(num,0)+1
+        for num in nums2:
+            if num in freq and freq[num]>0:
+                result.append(num)
+                freq[num] -= 1
+        return result
