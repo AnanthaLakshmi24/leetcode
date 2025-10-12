@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
