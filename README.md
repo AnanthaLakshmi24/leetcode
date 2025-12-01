@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1313-decompress-run-length-encoded-list](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
