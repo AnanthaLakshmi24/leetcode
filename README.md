@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1791-richest-customer-wealth) |
