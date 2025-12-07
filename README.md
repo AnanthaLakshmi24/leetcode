@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Sorting
 |  |
 | ------- |
