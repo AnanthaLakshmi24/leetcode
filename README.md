@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2383-add-two-integers) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
