@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0647-palindromic-substrings) |
+| [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0812-rotate-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
