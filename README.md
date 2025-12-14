@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1200-minimum-absolute-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1313-decompress-run-length-encoded-list](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
