@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0647-palindromic-substrings) |
 | [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0812-rotate-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0812-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
