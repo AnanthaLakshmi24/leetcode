@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0412-fizz-buzz) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0229-majority-element-ii) |
