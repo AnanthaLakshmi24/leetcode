@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3701-compute-alternating-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2293-min-max-game) |
+| [3701-compute-alternating-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Stack
 |  |
 | ------- |
