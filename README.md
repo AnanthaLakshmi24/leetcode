@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -216,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Greedy
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## String Matching
 |  |
 | ------- |
