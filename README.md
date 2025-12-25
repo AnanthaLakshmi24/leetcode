@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0647-palindromic-substrings) |
 | [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0812-rotate-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0812-rotate-string) |
