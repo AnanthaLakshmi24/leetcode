@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
