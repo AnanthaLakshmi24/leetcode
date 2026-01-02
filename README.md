@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1313-decompress-run-length-encoded-list](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2418-sort-the-people) |
