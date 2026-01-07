@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
 | ------- |
