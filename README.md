@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2540-minimum-common-value) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
 | ------- |
