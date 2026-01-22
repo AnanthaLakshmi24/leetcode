@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0647-palindromic-substrings) |
