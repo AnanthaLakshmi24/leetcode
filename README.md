@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2293-min-max-game) |
 | [3701-compute-alternating-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Trie
 |  |
 | ------- |
