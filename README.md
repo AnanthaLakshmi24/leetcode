@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2315-count-asterisks) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
