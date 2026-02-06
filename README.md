@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-find-words-containing-character](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3194-find-words-containing-character) |
+| [3379-transformed-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2293-min-max-game) |
+| [3379-transformed-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Stack
 |  |
