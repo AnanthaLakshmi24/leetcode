@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
 |  |
 | ------- |
