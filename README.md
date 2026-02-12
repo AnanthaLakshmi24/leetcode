@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2540-minimum-common-value) |
