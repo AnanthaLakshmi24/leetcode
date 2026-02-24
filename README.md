@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2418-sort-the-people) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Sorting
