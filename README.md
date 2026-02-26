@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0682-baseball-game) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2293-min-max-game) |
