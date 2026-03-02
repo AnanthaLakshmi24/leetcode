@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3637-trionic-array-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3701-compute-alternating-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Sorting
 |  |
 | ------- |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
