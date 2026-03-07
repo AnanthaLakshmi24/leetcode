@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2595-number-of-even-and-odd-bits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
