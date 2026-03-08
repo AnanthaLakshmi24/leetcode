@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
