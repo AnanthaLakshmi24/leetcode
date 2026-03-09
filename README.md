@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1791-richest-customer-wealth](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1748-sum-of-unique-elements](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
