@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2540-minimum-common-value) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2574-left-and-right-sum-differences](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
