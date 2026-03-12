@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3637-trionic-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3701-compute-alternating-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2540-minimum-common-value) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
