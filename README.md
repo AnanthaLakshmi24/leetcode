@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1002-find-common-characters](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1002-find-common-characters) |
 | [1031-add-to-array-form-of-integer](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1313-decompress-run-length-encoded-list](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0812-rotate-string) |
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
