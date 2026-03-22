@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1791-richest-customer-wealth](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1944-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0867-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
