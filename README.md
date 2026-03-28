@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2652-sum-multiples) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AnanthaLakshmi24/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/AnanthaLakshmi24/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/AnanthaLakshmi24/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AnanthaLakshmi24/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## String Matching
 |  |
